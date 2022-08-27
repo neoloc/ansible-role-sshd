@@ -1,9 +1,8 @@
 ---
 galaxy_info:
   role_name: sshd
-  author: Matt Willsher
+  author: neoloc
   description: OpenSSH SSH daemon configuration
-  company: Willsher Systems
   license: LGPLv3
   min_ansible_version: "2.9"
   platforms:
